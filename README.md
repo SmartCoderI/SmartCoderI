@@ -1,16 +1,13 @@
-## Hi there 👋
+ Hi there 👋 Welcome to Ida Wu's Github
 
-<!--
-**SmartCoderI/SmartCoderI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a grad student at UPenn pursuing Master of Computer and Information Technology.
+A full-stack software engineer with a strong background in technical projects, seeking an internship to build and scale applications. Proficient in developing robust solutions using Java, Python, and React to solve complex business problems.
 
-Here are some ideas to get you started:
+Languages & Frameworks: Python, Java, JavaScript, TypeScript, React, Node.js, SQL, HTML, CSS
+Databases: PostgreSQL, MySQL, MongoDB, Neo4j, Redis, VectorDB
+Cloud & DevOps: AWS(EC2, S3, RDS, ECS, SQS, SNS, Lambda), Docker, Git, Github Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
