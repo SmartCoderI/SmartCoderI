@@ -1,4 +1,5 @@
  Hi there 👋 Welcome to Ida Wu's Github
+ Check out my personal website: https://idawu.vercel.app/
 
 I am a grad student at UPenn pursuing Master of Computer and Information Technology. 
 
