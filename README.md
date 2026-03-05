@@ -3,9 +3,9 @@
 
 I am a grad student at UPenn pursuing Master of Computer and Information Technology. 
 
-A full-stack software engineer with a strong background in technical projects, seeking an internship to build and scale applications. Proficient in developing robust solutions using Java, Python, and React to solve complex business problems.
+A full-stack software engineer with a strong foundation in backend, frontend, and data workflows, and a growing focus on applied AI. Experienced in Java, Python, and React, and adept at integrating machine learning, LLM-powered agents, and cloud infrastructure to enhance product capabilities and scalability.
 
-Languages & Frameworks: Python, Java, JavaScript, TypeScript, React, Node.js, SQL, HTML, CSS
+Languages & Frameworks: Python, Java, JavaScript, TypeScript, React, React Native, Node.js, SQL, HTML, CSS
 
 Databases: PostgreSQL, MySQL, MongoDB, Neo4j, Redis, VectorDB
 
